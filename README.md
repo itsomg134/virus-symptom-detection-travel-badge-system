@@ -1,0 +1,1 @@
+# virus-symptom-detection-travel-badge-system
